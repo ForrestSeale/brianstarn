@@ -1,0 +1,23 @@
+/*CONTACT SECTION*/
+
+#contact {
+	margin-top: 20px;
+}
+
+#address {
+	background-color: #fff;
+	height: 799px;
+	border: solid 4px #A4CFF5;
+	color: #555555;
+}
+
+#form {
+	background-color: #fff;
+	border: solid 4px #A4CFF5;
+}
+
+@media screen and (max-width: 450px) {
+	iframe {
+		width: 340px;
+	}
+}
