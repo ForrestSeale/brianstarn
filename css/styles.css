@@ -9,6 +9,22 @@ a {
 	color: #fff;
 }
 
+.bottom-buffer {
+	padding-bottom: 16px;
+}
+
+.black-text {
+	color: #000;
+}
+
+.white-text {
+	color: #fff;
+}
+
+.small-line {
+	line-height: 70%;
+}
+
 body {
 	background-color: #ADCBED;
 }
@@ -64,10 +80,16 @@ nav {
 	padding: 8px 0 0 8px;
 }
 
-#intro-p {
-	padding: 50px;
+#info {
 	font-size: 16px;
 	font-family: 'Cantarell', sans-serif;
+}
+
+#intro-p {
+	font-size: 16px;
+	font-family: 'Cantarell', sans-serif;
+	padding: 16px;
+	border-left: 1px solid #a3a3a3;
 }
 
 /*FOOTER*/
@@ -77,6 +99,12 @@ footer {
 	background-color: #1C4587;
 	margin-top: 30px;
 }
+
+footer img {
+	height: 30px;
+	float: right;
+}
+
 
 .fa {
 	padding: 15px;
