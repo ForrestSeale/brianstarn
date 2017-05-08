@@ -10,7 +10,7 @@ a {
 }
 
 .bottom-line {
-	border-bottom: 1px solid #a3a3a3;
+	border-bottom: 2px solid #a3a3a3;
 }
 
 .bottom-buffer {
@@ -121,5 +121,3 @@ footer img {
 	padding: 15px;
 	color: #fff;
 }
-
-
