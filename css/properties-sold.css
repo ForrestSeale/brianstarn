@@ -5,6 +5,9 @@
 }
 
 .house-img {
-	border-left: 1px solid #a3a3a3;
+	padding: 34px;
+}
+
+.house-info {
 	padding: 34px;
 }

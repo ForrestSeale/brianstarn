@@ -9,6 +9,10 @@ a {
 	color: #fff;
 }
 
+.bottom-line {
+	border-bottom: 1px solid #a3a3a3;
+}
+
 .bottom-buffer {
 	padding-bottom: 16px;
 }
@@ -22,7 +26,7 @@ a {
 }
 
 .small-line {
-	line-height: 70%;
+	line-height: 75%;
 }
 
 body {
@@ -90,6 +94,13 @@ nav {
 	font-family: 'Cantarell', sans-serif;
 	padding: 16px;
 	border-left: 1px solid #a3a3a3;
+}
+
+@media screen and (max-width: 450px) {
+	#intro-p {
+		border-left: none;
+		border-top: 1px solid #a3a3a3;
+	}
 }
 
 /*FOOTER*/
