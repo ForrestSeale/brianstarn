@@ -4,6 +4,10 @@
 	margin-top: 20px;
 }
 
+#atlantic {
+	text-decoration: underline;
+}
+
 #address {
 	background-color: #fff;
 	height: 799px;
